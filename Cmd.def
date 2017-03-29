@@ -1,0 +1,9 @@
+; Cmd.def : Declares the module parameters for the DLL.
+
+EXPORTS
+	CmdGetVersion
+	CmdInitialize
+	CmdInitialize2
+	CmdInitialize3
+	CmdUninitialize
+	CmdGet
